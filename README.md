@@ -44,7 +44,7 @@ Return:
 
 ### cangjie.toCode(word)
 
-Find traditional chinese words by cangjie code
+Find cangjie code by traditional chinese word
 
 Parameters:
 
