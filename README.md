@@ -4,8 +4,8 @@ A CangJie tool to handle cangjie code to / from traditional chinese
 ## Characteristics
 
 Support wildcard charactors:  
--	* : 0 or any lenght of code
--	? : 1 any code
+-	`*` : 0 or any lenght of code
+-	`?` : 1 any code
 
 ## Install
 
