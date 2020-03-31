@@ -3,7 +3,7 @@ A CangJie tool to handle cangjie code to / from traditional chinese
 
 ## Characteristics
 
-Support wildcard charactors:  
+Support wildcard characters:  
 -	`*` : 0 or any lenght of code
 -	`?` : 1 any code
 
@@ -54,5 +54,5 @@ Return:
 
 return `undefined` if fail to find the cangjie code.
 
--	key - (string) cangjie code in english charactors
+-	key - (string) cangjie code in english characters
 -	cangjie - (string) cangjie code

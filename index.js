@@ -18,7 +18,7 @@ const cdb = require('cangjie-db');
 			simpify = false;
 		}
 
-		// replace special charactor
+		// replace special character
 		code = code.split(/\*/).join('.{0,5}').split(/\?/).join('.{1}');
 
 		var regexExact = '^' + code + '$';
