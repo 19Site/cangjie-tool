@@ -1,6 +1,6 @@
 {
   "name": "cangjie-tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CangJie tool to handle cangjie code to / from traditional chinese",
   "main": "index.js",
   "scripts": {

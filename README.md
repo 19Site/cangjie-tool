@@ -27,15 +27,15 @@ cangjie.toCode('頡');
 
 ## API
 
-### cangjie.toWords(code [, simplify = false [, exact = true]])
+### cangjie.toWords(code [, simplify = false [, exact = false]])
 
 Find traditional chinese words by cangjie code
 
 Parameters:
 
 -	code - (string) cangjie code in english
--	simplify - (boolean) cangjie simplify mode (速成) (default: true)
--	exact - (boolean) find only exact match to code (default: true)
+-	simplify - (boolean) cangjie simplify mode (速成) (default: false)
+-	exact - (boolean) find only exact match to code (default: false)
 
 Return:
 
